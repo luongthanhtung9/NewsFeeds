@@ -160,7 +160,7 @@ public class MainActivity extends AppCompatActivity implements SwipeRefreshLayou
 
 
     private void initListener() {
-
+        Log.d("Test", "initListener: 1");
         mAdapterNew.setOnItemClickListener(new AdapterNew.OnItemClickListener() {
             @Override
             public void onItemClick(View v, int position) {
