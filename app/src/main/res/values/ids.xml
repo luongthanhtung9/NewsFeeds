@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--ID Screen Error-->
+    <item type="id" name="errorLayout" />
+    <item type="id" name="errorImage" />
+    <item type="id" name="errorTitle" />
+    <item type="id" name="errorMessage" />
+    <item type="id" name="btnRetry" />
+
+    <!-- ID Screen Main-->
+    <item type="id" name="swipe_refresh_layout" />
+    <item type="id" name="topheadlines" />
+    <item type="id" name="recycleView" />
+
+    <!-- ID Screen Activity new detail-->
+    <item type="id" name="appbar" />
+    <item type="id" name="collapsing_toolbar" />
+    <item type="id" name="headerContent" />
+    <item type="id" name="img" />
+    <item type="id" name="img2" />
+    <item type="id" name="toolbar" />
+    <item type="id" name="title_appbar" />
+    <item type="id" name="subtitle_on_appbar" />
+    <item type="id" name="title" />
+    <item type="id" name="time" />
+    <item type="id" name="title_on_appbar" />
+    <item type="id" name="progress_bar" />
+    <item type="id" name="webView" />
+    <item type="id" name="date_behavior" />
+    <item type="id" name="date" />
+    <item type="id" name="backdrop" />
+
+    <!-- ID Screen screen item-->
+    <item type="id" name="item_img" />
+    <item type="id" name="item_shadow_top" />
+    <item type="id" name="item_progress_load_photo" />
+    <item type="id" name="item_author" />
+    <item type="id" name="item_layoutDate" />
+    <item type="id" name="item_publishedAt" />
+    <item type="id" name="item_title" />
+    <item type="id" name="item_desc" />
+    <item type="id" name="item_source" />
+    <item type="id" name="item_time" />
+
+</resources>
